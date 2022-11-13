@@ -1,0 +1,37 @@
+.likes{
+    font-size: 1.5rem;
+    color: palegreen;
+}
+ul{
+    color: rgb(186, 226, 43);
+}
+#likes{
+    color: rgb(21, 122, 216);
+    font-size: 2rem;
+}
+#dislikes{
+    color: peru;
+    font-size: 1.5rem;
+}
+.dislikes{
+    color: aliceblue;
+    font-size: 2rem;
+}
+ol{
+    color: blue;
+}
+li{
+    color: pink;
+}
+    .list-of-likes{
+        color: rgb(94, 66, 206);
+    }
+    #list-of-likes{
+      color:  rgb(114, 10, 165);
+    }
+    .list-of-dislikes{
+        color: rgb(203, 112, 112);
+    }
+    #list-of-dislikes{
+        color: rgb(240, 79, 10);
+    }
